@@ -1,6 +1,4 @@
 
-setwd("C:/Users/THAKPR8/Documents/MSDS/410_Sec56/Assignment8")
-
 ################################################################
 
 my.data <- read.csv(file="EuropeanEmployment.csv",head=TRUE,sep=",")
