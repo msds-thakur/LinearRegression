@@ -1,5 +1,3 @@
-setwd("E:/MS2020/Courses/410/Week1/Assignment1")
-
 ##################
 
 mydata <- read.csv(file="ames_housing_data.csv",head=TRUE,sep=",")
