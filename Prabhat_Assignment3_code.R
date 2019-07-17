@@ -1,5 +1,3 @@
-setwd("C:/Users/THAKPR8/Documents/MSDS/410_Sec56/Assignment1/")
-
 ##################
 
 mydata <- read.csv(file="ames_housing_data.csv",head=TRUE,sep=",")
