@@ -1,6 +1,3 @@
-
-#setwd("E:\MS2020\Courses\410\week6\Assignment6/")
-
 my.data <- read.csv(file="stock_portfolio.csv",head=TRUE,sep=",")
 
 str(my.data)
